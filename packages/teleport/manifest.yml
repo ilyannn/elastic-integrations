@@ -10,11 +10,6 @@ categories:
 conditions:
   kibana:
     version: ^8.13.0
-icons:
-  - src: /img/logo.svg
-    title: Cisco Duo logo
-    size: 32x32
-    type: image/svg+xml
 policy_templates:
   - name: teleport
     title: Teleport
